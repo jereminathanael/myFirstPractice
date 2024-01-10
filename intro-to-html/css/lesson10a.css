@@ -1,0 +1,116 @@
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: roboto, arial;
+    font-size: 14px;
+}
+.lesson10a {
+    display: inline-block;
+    vertical-align: top;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+}
+.lesson10c {
+    display: inline-block;
+    width: 500px;
+    vertical-align: top;
+    padding-left: 8px;
+    padding-top: 5px;
+    margin-left: 15px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+}
+.tweet-preview {
+    width: 300px;
+    padding: 8px;
+    margin-bottom: 6px;
+}
+.twitter-picture {
+    display: inline-block;
+    margin-right: 8px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.profile-picture {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: right;
+    border-radius: 40px;
+    display: inline-block;
+    margin-right: 8px;
+}
+.profile-picture1 {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 40px;
+    display: inline-block;
+}
+.tweet-info {
+    display: inline-block;
+    width: 150px;
+    vertical-align: middle;
+}
+
+.username {
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+.status,
+.stats {
+    color: rgb(150, 150, 150);
+    margin-bottom: 4px;
+}
+.button {
+    display: inline-block;
+    
+}
+.follow-button {
+    background-color: rgb(29, 155, 240);
+    color: white;
+    border: none;
+    font-size: 16px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-weight: bold;
+    border-radius: 10px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+.profile-picture-youtube {
+    width: 200px;
+    display: inline-block;
+}
+.youtube-preview {
+    display: inline-block;
+    width: 500px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
+.youtube-preview:active {
+    background-color: #f1f1f1;
+}
+.channel-picture {
+    display: inline-block;
+    width: 200px;
+    margin-right: 8px;
+}
+.youtube-info {
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    margin-top: 5px;
+}
+.video-title {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 8px;
+}
+.video-author,
+.video-stats {
+    color: rgb(100, 100, 100);
+    margin-bottom: 6px;
+}

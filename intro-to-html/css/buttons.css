@@ -1,0 +1,205 @@
+.subscribe-button {
+    background-color: rgb(200, 0, 0);
+    color: white;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 2px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: opacity 0.15s;
+    vertical-align: top;
+}
+.subscribe-button:hover {
+    opacity: 0.8;
+}
+.subscribe-button:active {
+    opacity: 0.5;
+}
+
+.join-button {
+    background-color: white;
+    border-color: rgb(22, 135, 234);
+    border-style: solid;
+    border-width: 1px;
+    color: rgb(22, 135, 234);
+    padding-top: 9px;
+    padding-bottom: 9px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: background-color 0.15s,
+    color 0.15s;
+}
+.join-button:hover {
+    background-color: rgb(22, 135, 234);
+    color: white;
+}
+.join-button:active {
+    opacity: 0.7;
+}
+
+.tweet-button {
+    background-color: rgb(2, 158, 255);
+    color: white;
+    border: none;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 18px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-left: 8px;
+    transition: box-shadow 0.15s;
+    vertical-align: top;
+}
+.tweet-button:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.request-now-button {
+    background-color: black;
+    color: white;
+    border: none;
+    height: 36px;
+    margin-top: 10px;
+    width: 100px;
+    cursor: pointer;
+    transition: opacity 0.15s;
+}
+.request-now-button:hover {
+    opacity: 0.8;
+}
+.request-now-button:active {
+    opacity: 0.5;
+}
+
+.add-to-cart-button {
+    background-color: rgb(255, 216, 20);
+    color: black;
+    border: none;
+    margin-top: 8px;
+    height: 33px;
+    width: 180px;
+    border-radius: 20px;
+    font-size: 15px;
+    cursor: pointer;
+    transition: background-color 0.15s;
+}
+.add-to-cart-button:hover {
+    background-color: rgb(232, 196, 20);
+}
+.add-to-cart-button:active {
+    opacity: 0.7;
+}
+
+.sign-up-button {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border: none;
+    margin-top: 8px;
+    height: 36px;
+    width: 90px;
+    border-radius: 8px;
+    font-weight: bold;
+    font-size: 14px;
+    cursor: pointer;
+    transition: box-shadow 0.15s;
+}
+.sign-up-button:hover {
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.get-started-button {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    font-weight: bold;
+    margin-top: 8px;
+    height: 36px;
+    width: 100px;
+    border-radius: 4px;
+    font-size: 12px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.15s
+}
+.get-started-button:hover {
+    background-color: rgb(90, 57, 139);
+}
+.get-started-button:active {
+    opacity: 0.7;
+}
+
+.download-button {
+    margin-top: 8px;
+    background-color: white;
+    color: rgb(108, 117, 125);
+    border-color: rgb(108, 117, 125);
+    border-style: solid;
+    border-width: 1px;
+    height: 36px;
+    width: 100px;
+    font-weight: bold;
+    font-size: 12px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.15s,
+    color 0.15s;
+}
+.download-button:hover {
+    background-color: rgb(108, 117, 125);
+    color: white;
+}
+.download-button:active {
+    opacity: 0.7;
+}
+
+.apply-on-company-website-button {
+    margin-top: 8px;
+    background-color: rgb(10, 102, 194);
+    color: white;
+    border: none;
+    font-weight: bold;
+    height: 36px;
+    width: 200px;
+    border-radius: 20px;
+    font-size: 12px;
+    cursor: pointer;
+    margin-right: 8px;
+    transition: background-color 0.15s;
+}
+.apply-on-company-website-button:hover {
+    background-color: rgb(10, 83, 156);
+}
+.apply-on-company-website-button:active {
+    opacity: 0.7;
+}
+
+.save-button {
+    background-color: white;
+    color: rgb(10, 102, 194);
+    border-color: rgb(10, 102, 194);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 40px;
+    font-weight: bold;
+    font-size: 12px;
+    height: 36px;
+    width: 75px;
+    cursor: pointer;
+    transition: background-color 0.15s,
+    boreder-width 0.15s;
+}
+.save-button:hover {
+    background-color: rgb(215, 231, 247);
+    border-width: 2px;
+}
+.save-button:active {
+    opacity: 0.7;
+}

@@ -1,0 +1,75 @@
+p {
+    font-family: arial;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.tahoma-font {
+    font-family: tahoma;
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.biggest-deals {
+    font-size: 20px;
+    font-weight: bold;
+}
+.sales {
+    font-size: 15px;
+    font-style: italic;
+    color: rgb(239, 66, 66);
+    margin-bottom: 50px;
+}
+.html-css-course {
+    width: 300px;
+    font-size: 18px;
+    font-family: verdana;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.beginner {
+    width: 300px;
+    font-family: verdana;
+    color: rgb(123, 123, 123);
+    margin-bottom: 18px;
+}
+.content {
+    width: 300px;
+    font-family: verdana;
+    line-height: 22px;
+    margin-bottom: 18px;
+}
+.get-started-button {
+    font-family: verdana;
+    background-color: green;
+    color: white;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin-bottom: 50px;
+}
+.shopping {
+    text-align: center;
+    font-weight: bold;
+    font-size: 28px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.content1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.learn-more {
+    text-align: center;
+    color: rgb(58, 108, 199);
+    cursor: pointer;
+}
+.learn-more:hover {
+    text-decoration: underline;
+}
+.learn-more:active {
+    opacity: 0.8;
+}
